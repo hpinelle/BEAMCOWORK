@@ -14,15 +14,6 @@ body{
         grid-row: 2/3;
 }
 
-.imagenLogodiv{
-    transition: all 0.8s ease;
-
-}
-
-.imagenLogo:hover{
-    transition: all 0.8s ease;
-    transform: rotate(-360deg);
-}
 
 .navBarprincipal{
     display: flex;
