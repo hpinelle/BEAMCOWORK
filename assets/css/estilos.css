@@ -7,7 +7,7 @@ body{
 }
 
 .tituloPrincipalmain{
-        text-align: right;
+        text-align: center;
         font-size: 35px;
         color: black;
         grid-column: 1/4;
